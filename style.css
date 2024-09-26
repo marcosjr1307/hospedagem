@@ -1,0 +1,9 @@
+body{
+    background-color: rgb(194, 167, 194);
+}
+
+p{
+    font-size: 2em;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
